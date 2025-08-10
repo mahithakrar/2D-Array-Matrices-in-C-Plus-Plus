@@ -1,28 +1,28 @@
 # 2D-Array-Matrices-in-C-Plus-Plus
 
-# 2D Arrays (Matrices) in C++
-
 ## 📌 Overview
-
 A **2D array** in C++ is essentially an array of arrays, also referred to as a **matrix**. It allows storage and manipulation of tabular data in rows and columns. Matrices are widely used in mathematical computations, graphics, and data representation where elements are organized in a grid.
-
 In C++, 2D arrays can be declared using:
 ```cpp
 datatype arrayName[rows][columns];
 ```
-**Common Operations on 2D Arrays
-Matrix Addition – Adding corresponding elements of two matrices
-Matrix Subtraction
-Matrix Multiplication
-Transpose of a Matrix – Flipping rows and columns
-Finding Maximum/Minimum element
-Diagonal Sum
 
-**Applications of 2D Arrays
-Representing mathematical matrices
-Image processing (pixel representation)
-Games like chess, tic-tac-toe, sudoku
-Storing tables (e.g., marksheets, grids)
-Dynamic programming (e.g., memoization tables)
-Simulation of real-world grids/maps
+## Common Operations on 2D Arrays
 
+- **Matrix Addition** – Adding corresponding elements of two matrices  
+- **Matrix Subtraction**  
+- **Matrix Multiplication**  
+- **Transpose of a Matrix** – Flipping rows and columns  
+- **Finding Maximum/Minimum Element**  
+- **Diagonal Sum**  
+
+---
+
+## Applications of 2D Arrays
+
+- Representing mathematical matrices  
+- Image processing (pixel representation)  
+- Games like chess, tic-tac-toe, sudoku  
+- Storing tables (e.g., marksheets, grids)  
+- Dynamic programming (e.g., memoization tables)  
+- Simulation of real-world grids/maps 
